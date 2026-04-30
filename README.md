@@ -80,6 +80,7 @@ This project is built to:
 
 ```bash
 git clone https://github.com/sagesakshi27/Multi-Step-Form-UI.git
+cd Multi-Step-Form-UI
 ```
 
 ### 2️⃣ Open the Project
